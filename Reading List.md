@@ -4,4 +4,6 @@
 <ol>
 <li>American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road, Nick Bilton. https://www.goodreads.com/book/show/31920777-american-kingpin </li>
 <li>The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data, Kevin D. Mitnick, Robert Vamosi (Co-author). https://www.goodreads.com/book/show/30363785-the-art-of-invisibility</li>
+<li>Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon, Kim Zetter. https://www.goodreads.com/book/show/18465875-countdown-to-zero-day</li>
+
 </ol>
